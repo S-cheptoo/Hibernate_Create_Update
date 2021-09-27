@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43ad37b6-3d98-471f-9499-045f2e854f00" name="Default Changelist" comment="" />
+    <list default="true" id="43ad37b6-3d98-471f-9499-045f2e854f00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1y0BNrMaes8PFydj4Z77554uy7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -103,6 +109,8 @@
       <updated>1631378587678</updated>
       <workItem from="1631378596428" duration="6981000" />
       <workItem from="1631441749534" duration="1446000" />
+      <workItem from="1631464436457" duration="948000" />
+      <workItem from="1632714543466" duration="1321000" />
     </task>
     <servers />
   </component>
@@ -118,22 +126,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="508" y="269" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.738@0.0.1366.738" timestamp="1631379218965" />
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1631387267043">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1632715617536">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1631387267043" />
-    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1631387267043">
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1632715617536" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1632715617535">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1631387267043" />
-    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1631387267043">
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1632715617535" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1632715617534">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1631387267043" />
-    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1631387267043">
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1632715617534" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1632715617535">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1631387267043" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1632715617535" />
     <state x="213" y="25" key="Maven.ArtifactSearchDialog" timestamp="1631380371605">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
